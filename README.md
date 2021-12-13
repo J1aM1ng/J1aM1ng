@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Koa、Go...
 - 📫 How to reach me: 微信公众号【话水杂谈】
-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J1aM1ng)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J1aM1ng)](https://github.com/anuraghazra/github-readme-stats)
+
