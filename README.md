@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on SDU CS
 - 🌱 I’m currently learning Koa、Go、TypeScript...
-- 📫 How to reach me: 邮箱 : hsfqing@gmail.com，微信公众号【话水杂谈】, 微信: sjmtobeu
+- 📫 How to reach me: 邮箱 : 【hsfqing@gmail.com】，微信公众号【话水杂谈】, 微信: 【sjmtobeu】
 - ⚡ Fun fact: Front-end developer
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J1aM1ng)](https://github.com/anuraghazra/github-readme-stats)
