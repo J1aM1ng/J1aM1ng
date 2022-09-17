@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <details>
 <summary>Featured Projects 🎬</summary>
-
-
 ### Featured Projects 🎬
 
 -  [SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)
