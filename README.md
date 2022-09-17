@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 ### Featured Projects 🎬
 
--  
+-  [SDUCS-Material](https://github.com/J1aM1ng/SDUCS-Material)
+-  [leetcode-practice](https://github.com/J1aM1ng/leetcode-practice)
 
 </details>
