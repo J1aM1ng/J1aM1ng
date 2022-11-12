@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **hsfqing@gmail.com**
 
+- 💼 I'm currently working in TikTok[https://www.tiktok.com/]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
