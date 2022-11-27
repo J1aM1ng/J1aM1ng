@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hsfqing@gmail.com**
 
-- 💼 I'm currently a **Software Engineer** in **Tiktok**, and I used to worked in Alibaba and Microsoft.
+- 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Alibaba and Microsoft.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
