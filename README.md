@@ -7,10 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1am1ng" alt="j1am1ng" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React/WASM**
-
 - 📫 How to reach me **hsfqing@gmail.com**
 
 - 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Amazon, Microsoft and Alibaba.
@@ -28,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j1am1ng&" alt="j1am1ng" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
