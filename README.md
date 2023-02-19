@@ -26,4 +26,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j1am1ng&" alt="j1am1ng" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 17 February 2023 - To: 18 February 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
