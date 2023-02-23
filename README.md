@@ -28,12 +28,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 February 2023 - To: 20 February 2023
+From: 17 February 2023 - To: 21 February 2023
 
-Total Time: 6 mins
+Total Time: 43 mins
 
-JSON   4 mins          >>>>>>>>>>>>>>>>>>-------   72.21 %
-YAML   1 min           >>>>>>>------------------   27.79 %
+JavaScript   30 mins         >>>>>>>>>>>>>>>>>>-------   70.02 %
+JSON         8 mins          >>>>>--------------------   19.26 %
+TypeScript   2 mins          >>-----------------------   06.21 %
+YAML         1 min           >------------------------   04.32 %
+Git Config   0 secs          -------------------------   00.11 %
+XML          0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
