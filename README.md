@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1am1ng" alt="j1am1ng" /></a> </p>
 
-- 🌱 I’m currently learning **React/WASM**
+- 🌱 I’m currently learning **React/Spring Boot**
 - 📫 How to reach me **hsfqing@gmail.com**
 
 - 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Amazon, Microsoft and Alibaba.
