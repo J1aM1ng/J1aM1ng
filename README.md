@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
-<h3 align="center">A passionate Software Engineer from China</h3>
+<h3 align="center">A passionate Software Engineer in TikTok</h3>
 <h3 align="center"> <a href="https://levi-homepage.vercel.app/" target="_blank" rel="noreferrer">My Personal Homepage</a></h3>
 <h3 align="center"> <a href="https://j1am1ng.github.io/Levi-Shao-Blog/#" target="_blank" rel="noreferrer">My Tech Blog</a></h3>
 
