@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Cloud Computing**
 - 📫 How to reach me [Homepage](https://levi-homepage.vercel.app/) | [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
 
-- 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Amazon, Microsoft, Alibaba, Meituan and IMean.
+- 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to work in Amazon, Microsoft, Alibaba, Meituan and IMean.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
