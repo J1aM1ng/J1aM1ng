@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
 <h3 align="center">A passionate Software Engineer in TikTok</h3>
-<h3 align="center"> <a href="https://levi-homepage.vercel.app/" target="_blank" rel="noreferrer">My Personal Homepage</a></h3>
-<h3 align="center"> <a href="https://j1am1ng.github.io/Levi-Shao-Blog/#" target="_blank" rel="noreferrer">My Tech Blog</a></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j1am1ng&label=Profile%20views&color=0e75b6&style=flat" alt="j1am1ng" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1am1ng" alt="j1am1ng" /></a> </p>
 
-- 🌱 I’m currently learning **React/Spring Boot**
-- 📫 How to reach me **hsfqing@gmail.com**
+- 🌱 I’m currently learning **Cloud Computing**
+- 📫 How to reach me [Homepage](https://levi-homepage.vercel.app/) | [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
 
-- 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Amazon, Microsoft and Alibaba.
+- 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to worked in Amazon, Microsoft, Alibaba, Meituan and IMean.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
