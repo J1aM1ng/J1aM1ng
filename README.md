@@ -4,12 +4,13 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=j1am1ng&label=Profile%20views&color=0e75b6&style=flat" alt="j1am1ng" /> 
-  
+</p>
+
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-https%3A%2F%2Fgithub.com%2FJ1aM1ng-brightgreen)](https://levi-homepage.vercel.app/)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)]([https://ChelesteWang.github.io/](https://j1am1ng.github.io/Levi-Shao-Blog/#))
   
-</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1am1ng" alt="j1am1ng" /></a> </p>
 
