@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-https%3A%2F%2Fgithub.com%2FJ1aM1ng-brightgreen)](https://levi-homepage.vercel.app/)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)]([https://ChelesteWang.github.io/](https://j1am1ng.github.io/Levi-Shao-Blog/#))
+[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)]([https://j1am1ng.github.io/Levi-Shao-Blog/#](https://j1am1ng.github.io/Levi-Shao-Blog/#))
   
 
 
