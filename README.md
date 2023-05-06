@@ -57,15 +57,16 @@
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-%231a202c?style=flat-square&logo=jest)
 
 ## Backend Skills
-![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=golang)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs&labelColor=0D1117)
+![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)
 ![C#](https://img.shields.io/badge/-csharp-%232c3e50?style=flat-square&logo=csharp&logoColor=%232E8B57&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 
-![springboot](https://img.shields.io/badge/-springboot-%23F7DF1C?style=flat-square&logo=springboot)
+![springboot](https://img.shields.io/badge/-springboot-%23282C34?style=flat-square&logo=springboot)
 
 
 ![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
