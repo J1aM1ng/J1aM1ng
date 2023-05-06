@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8939E4&height=150&text=&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=8939E4&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+LEVI+SHAO;I'M+FROM+SHANGHAI+-+CHINA;CURRENTLY%2C+I+AM+STUDYING+APPLICATION+DEVELOPMENT;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%f0%9f%98%89)](https://www.linkedin.com/in/levi-shao/)
+
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
 <h3 align="center">A passionate Software Engineer in TikTok</h3>
 
@@ -11,13 +15,17 @@
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://j1am1ng.github.io/Levi-Shao-Blog/#)
   
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1am1ng" alt="j1am1ng" /></a> </p>
 
 - 🌱 I’m continuously learning **Application Development**
 - 📫 How to reach me [Homepage](https://levi-homepage.vercel.app/) | [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
 
 - 💼 I'm currently a **Software Engineer** in **TikTok**, and I used to work in Amazon, Microsoft, Alibaba, Meituan and IMean.
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=J1aM1ng&show_icons=true&theme=tokyonight" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1aM1ng&layout=compact&theme=tokyonight&langs_count=10" />
+</div>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
