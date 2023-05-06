@@ -60,13 +60,14 @@
 ![Jest](https://img.shields.io/badge/-Jest-%231a202c?style=flat-square&logo=jest)
 
 ## Backend Skills
-![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=golang)
+![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=go)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs&labelColor=0D1117)
-![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-csharp-%232c3e50?style=flat-square&logo=csharp&logoColor=%232E8B57&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 
 ![springboot](https://img.shields.io/badge/-springboot-%23282C34?style=flat-square&logo=springboot)
+![flask](https://img.shields.io/badge/-flask-%23282C34?style=flat-square&logo=flask)
 
 
 ![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
