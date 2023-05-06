@@ -27,13 +27,13 @@
 </div>
 
 ## General Skills
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![MacOS](https://img.shields.io/badge/-mac%20os-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+![MacOS](https://img.shields.io/badge/-mac%20os-0D1117?style=flat-square&logo=apple&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=windows&labelColor=0D1117)
 
 ## Frontend Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
