@@ -50,3 +50,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j1am1ng&show_icons=true&locale=en&layout=compact" alt="j1am1ng" /></p> -->
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=J1aM1ng&theme=redical)
