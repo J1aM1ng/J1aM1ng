@@ -65,7 +65,7 @@
 ![C#](https://img.shields.io/badge/-csharp-%232c3e50?style=flat-square&logo=csharp&logoColor=%232E8B57&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 
-![springboot](https://img.shields.io/badge/-springboot-%23F7DF1C?style=flat-square&logo=springboot&labelColor=0D1117)
+![springboot](https://img.shields.io/badge/-springboot-%23F7DF1C?style=flat-square&logo=springboot)
 
 
 ![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
