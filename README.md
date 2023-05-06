@@ -54,7 +54,7 @@
 ## Backend Skills
 ![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
 ![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=golang)
-![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs)
+![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs&labelColor=0D1117)
 ![C#](https://img.shields.io/badge/-csharp-0D1117?style=flat-square&logo=csharp&logoColor=purple&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 
