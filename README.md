@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=6A5ACD&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+LEVI+SHAO;I'M+FROM+SHANGHAI+-+CHINA;CURRENTLY%2C+I+AM+STUDYING+APPLICATION+DEVELOPMENT;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%f0%9f%98%89)](https://www.linkedin.com/in/levi-shao/)
 
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
-<h3 align="center">A passionate Software Engineer in TikTok</h3>
+<h3 align="center">A passionate Software Engineer in Google</h3>
 
 <!-- page viewed -->
 <p align="left">
