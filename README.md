@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1500&color=6A5ACD&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+LEVI+SHAO;I'M+FROM+SHANGHAI+-+CHINA;CURRENTLY%2C+I+AM+STUDYING+APPLICATION+DEVELOPMENT;I'M+EXCITED+TO+LEARN+MORE+ABOUT+TECHNOLOGY+;WELCOME+TO+MY+GITHUB+PROFILE+%f0%9f%98%89)](https://www.linkedin.com/in/levi-shao/)
 
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
-<h3 align="center">A passionate Software Engineer in Google</h3>
+<h3 align="center">Currently a passionate SWE Intern in Google</h3>
 
 <!-- page viewed -->
 <p align="left">
@@ -12,10 +12,10 @@
 
 <!-- badge for Github/Homepage -->
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-J1aM1ng-brightgreen)]([https://levi-homepage.vercel.app/](https://www.linkedin.com/in/levi-shao/))
+[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-Levi-brightgreen)]([https://levi-homepage.vercel.app/](https://www.linkedin.com/in/levi-shao/))
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://j1am1ng.github.io/Levi-Shao-Blog/#)
   
-Hello World! This is Levi Shao. Currently a SWE intern in Google and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to SDE/SWE Co-op/Internship and New Grad position starting from June/Sept 2024.
+Hello World! This is Levi Shao👋. Currently a SWE intern in Google and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to SDE/SWE Co-op/Internship and New Grad position starting from June/Sept 2024.
 
 Fluent in English and native in Chinese. Experienced in Golang, Java, TypeScript, Python and C/C++ programming (Related Framework including Spring Boot, React.js, etc). Familiar with FullStack software development.
 
