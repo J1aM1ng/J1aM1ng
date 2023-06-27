@@ -22,7 +22,7 @@ Fluent in English and native in Chinese. Experienced in Golang, Java, TypeScript
 
 I'm primarily interested in FullStack Development, including Frontend and Backend, Quant, and am always eager and enthusiastic to solve real world problems.
 
-- 📫 How to reach me [Homepage](https://levi-homepage.vercel.app/) | [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
+- 📫 How to reach me [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
 - 💼 I'm currently a **SWE Intern** in **Google**, and I used to work in TikTok, Amazon, Microsoft, Alibaba, Meituan and IMean.
 
 <div align="center">  
