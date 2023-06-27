@@ -15,15 +15,14 @@
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-Levi-brightgreen)]([https://levi-homepage.vercel.app/](https://www.linkedin.com/in/levi-shao/))
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://j1am1ng.github.io/Levi-Shao-Blog/#)
   
-Hello World! This is Levi Shao👋. Currently a SWE intern in Google and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to SDE/SWE Co-op/Internship and New Grad position starting from June/Sept 2024.
+Hello World! This is Levi Shao👋. Currently a SWE intern in Google and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China. **Currently, I am open to **.
+Currently, I am actively seeking **SDE/SWE/Software Developer Co-op/Internship and New Grad position** starting from **June/Sept 2024** and related opportunities in both the **United States and Canada**. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
 
 Fluent in English and native in Chinese. Experienced in Golang, Java, TypeScript, Python and C/C++ programming (Related Framework including Spring Boot, React.js, etc). Familiar with FullStack software development.
 
 I'm primarily interested in FullStack Development, including Frontend and Backend, Quant, and am always eager and enthusiastic to solve real world problems.
 
-- 🌱 I’m continuously learning **Application Development**
 - 📫 How to reach me [Homepage](https://levi-homepage.vercel.app/) | [Tech Blog](https://j1am1ng.github.io/Levi-Shao-Blog/#) | [LinkedIn](https://www.linkedin.com/in/levi-shao/) | [Email](mailto:hsfqing@gmail.com)
-
 - 💼 I'm currently a **SWE Intern** in **Google**, and I used to work in TikTok, Amazon, Microsoft, Alibaba, Meituan and IMean.
 
 <div align="center">  
