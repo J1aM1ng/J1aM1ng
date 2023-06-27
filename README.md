@@ -18,7 +18,7 @@ I'm primarily interested in FullStack Development, including Frontend and Backen
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=J1aM1ng&show_icons=true&theme=tokyonight" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1aM1ng&layout=compact&theme=tokyonight&langs_count=10" />
+  /*<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1aM1ng&layout=compact&theme=tokyonight&langs_count=10" />*/
 </div>
 
 ## General Skills
