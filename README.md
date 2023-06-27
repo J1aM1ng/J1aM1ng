@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&text=&fontSize=35&fontColor=391F5A&animation=fadeIn&fontAlign=90&fontAlignY=20&section=header"/>
-
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
 <h3 align="center">Currently a passionate SWE Intern in Google</h3>
 
