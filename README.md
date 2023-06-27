@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
 <h3 align="center">Currently a passionate SWE Intern in Google</h3>
 
-<!-- page viewed -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=j1am1ng&label=Profile%20views&color=0e75b6&style=flat" alt="j1am1ng" /> 
-</p>
-
 <!-- badge for Github/Homepage -->
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-Levi-brightgreen)]([https://levi-homepage.vercel.app/](https://www.linkedin.com/in/levi-shao/))
