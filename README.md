@@ -78,7 +78,7 @@ I'm primarily interested in FullStack Development, including Frontend and Backen
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j1am1ng&show_icons=true&locale=en&layout=compact" alt="j1am1ng" /></p> -->
 
 <!-- activity graph -->
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=J1aM1ng&theme=redical)
+
 <!-- Award -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
