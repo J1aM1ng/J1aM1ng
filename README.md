@@ -12,7 +12,7 @@
 
 <!-- badge for Github/Homepage -->
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-J1aM1ng-brightgreen)](https://levi-homepage.vercel.app/)
+[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-J1aM1ng-brightgreen)]([https://levi-homepage.vercel.app/](https://www.linkedin.com/in/levi-shao/))
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://j1am1ng.github.io/Levi-Shao-Blog/#)
   
 Hello World! This is Levi Shao. Currently a SWE intern in Google and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China. Currently, I am open to SDE/SWE Co-op/Internship and New Grad position starting from June/Sept 2024.
