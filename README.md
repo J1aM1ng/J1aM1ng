@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-Levi-brightgreen)](https://www.linkedin.com/in/levi-shao/)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://j1am1ng.github.io/Levi-Shao-Blog/#)
   
-Hello World! This is Levi Shao👋. Currently a Cloud Software Engineer intern in **Google Cloud** and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China.
+Hello World! This is Levi Shao👋. Currently a Software Engineer intern in **Google Cloud** and a first year CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China.
 Currently, I am actively seeking **SDE/SWE/Software Developer Co-op/Internship and New Grad position** starting from **Summer/Fall 2024** and related opportunities in both **the United States and Canada**. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
 
 Fluent in English and native in Chinese. Experienced in Golang, Java, TypeScript, Python and C/C++ programming (Related Framework including Spring Boot, React.js, etc). Familiar with FullStack software development.
