@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi Shao</h1>
-<h3 align="center">Currently a passionate SWE Intern in Google</h3>
+<h3 align="center"> Ex-SWE Intern in Google / Amazon / Microsoft / TikTok</h3>
 
 <!-- badge for Github/Homepage -->
 [![](https://img.shields.io/badge/Github-Levi-brightgreen?&logo=github)](https://github.com/J1aM1ng)
