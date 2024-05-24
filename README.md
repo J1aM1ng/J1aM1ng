@@ -8,7 +8,7 @@
   
 Hello World! This is Levi Shao👋. Currently a CS Master's student at McMaster University, Canada, and received my CS Bachelor's degree from Shandong University, China.
 
-Fluent in English and native in Chinese. Experienced in Golang, Java, TypeScript, Python and C/C++ programming (Related Framework including Spring Boot, React.js, etc). Familiar with FullStack software development.
+Experienced in Golang, Java, TypeScript, Python and C/C++ programming (Related Framework including Spring Boot, React.js, etc.). Familiar with FullStack software development.
 
 I'm primarily interested in FullStack Development, including Frontend and Backend, and am always eager and enthusiastic to solve real world problems.
 
